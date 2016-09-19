@@ -1,0 +1,8 @@
+c:\users\fabienm\documents\visual studio 2013\Projects\Outsurance\Outsurance\bin\Debug\Outsurance.exe.config
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\bin\Debug\Outsurance.exe
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\bin\Debug\Outsurance.pdb
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\bin\Debug\CsvHelper.dll
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\bin\Debug\CsvHelper.xml
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\obj\Debug\Outsurance.csprojResolveAssemblyReference.cache
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\obj\Debug\Outsurance.exe
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\Outsurance\obj\Debug\Outsurance.pdb

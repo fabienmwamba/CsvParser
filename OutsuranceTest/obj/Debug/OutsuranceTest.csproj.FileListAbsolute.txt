@@ -1,0 +1,11 @@
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\OutsuranceTest.dll
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\OutsuranceTest.pdb
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\nunit.framework.dll
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\nunit.framework.xml
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\obj\Debug\OutsuranceTest.csprojResolveAssemblyReference.cache
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\obj\Debug\OutsuranceTest.dll
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\obj\Debug\OutsuranceTest.pdb
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\Outsurance.exe
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\CsvHelper.dll
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\Outsurance.pdb
+c:\Users\fabienm\Documents\Visual Studio 2013\Projects\Outsurance\OutsuranceTest\bin\Debug\CsvHelper.xml
